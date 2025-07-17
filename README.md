@@ -2,11 +2,10 @@
 
 <!-- Profile Banner GIF -->
 <p align="center">
-  <img src="https://github.com/SENARUL-2S/Amazon-Prime-Video-Dashboard-Using-Power-BI/blob/main/Amazon video dashboard.png" width="900" height ="350" alt="Coding gif"/>
+  <img src="https://github.com/SENARUL-2S/Amazon-Prime-Video-Dashboard-Using-Power-BI/blob/main/Amazon prime video dashboard.png" width="900" height ="350" alt="Coding gif"/>
 </p>
 A visually interactive Power BI dashboard that explores, analyzes, and presents key insights about content available on Amazon Prime Video. The dashboard provides deep insights into show ratings, genres, countries, and trends over time — all in a single glance.
 
-![Dashboard Preview](./your-dashboard-image.png)
 
 ---
 
